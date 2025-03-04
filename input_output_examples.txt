@@ -1,0 +1,87 @@
+##PROBLEM 1
+
+###Sample Input :
+Product ID: 101
+Name: Laptop
+Price: 75000
+
+###Sample Output :
+Product Details:
+ID: 101
+Name: Laptop
+Price: 75000.0
+
+
+##PROBLEM 2
+
+###Sample Output:
+
+Library Management System by Pushkar[22bcs17250]
+
+Fiction Book Details:
+Title: 1984
+Author: George Orwell
+Price: 400.0
+---------------------------
+Fiction Book Details:
+Title: Brave New World
+Author: Aldous Huxley
+Price: 450.0
+---------------------------
+Fiction Book Details:
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Price: 350.0
+---------------------------
+Non-Fiction Book Details:
+Title: The Selfish Gene
+Author: Richard Dawkins
+Price: 650.0
+---------------------------
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700.0
+---------------------------
+Non-Fiction Book Details:
+Title: Educated
+Author: Tara Westover
+Price: 550.0
+---------------------------
+
+##PROBLEM 3
+###Sample Output:
+Student Information System by pushkar[22bcs17250]
+
+Menu:
+1. Add Student
+2. Add Teacher
+3. Display All Students
+4. Display All Teachers
+5. Search Student by Roll Number
+6. Search Teacher by Name
+7. Update Student Details
+8. Update Teacher Details
+9. Remove Student
+10. Remove Teacher
+0. Exit
+Enter your choice: 1
+
+Enter Student Name: Alice
+Enter Student Age: 20
+Enter Student Roll Number: 101
+Student added successfully!
+
+Menu:
+1. Add Student
+2. Add Teacher
+...
+Enter your choice: 2
+
+Enter Teacher Name: Mr. Smith
+Enter Teacher Age: 40
+Enter Teacher Subject: Mathematics
+Teacher added successfully!
+
+... (and so on for display, search, update, removal)
+
